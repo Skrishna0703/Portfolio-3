@@ -5,7 +5,7 @@ import { Github, ExternalLink } from "lucide-react";
 type ProjectCardProps = {
   src: string;
   title: string;
-  langs: string[];
+  langs: readonly string[];
   liveLink: string;
   githubLink: string;
 };
