@@ -58,7 +58,6 @@ export const Skills = () => {
                   <SkillDataProvider
                     src={skill.image}
                     name={skill.skill_name}
-                    description={skill.description}
                     width={80}
                     height={80}
                     index={i}
