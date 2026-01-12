@@ -117,7 +117,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://www.instagram.com/the_skrishna_sutar/",
+    link: "https://www.instagram.com/skrishna.dev/",
   },
   {
     name: "Facebook",
